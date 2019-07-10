@@ -1,0 +1,24 @@
+{
+  "docs": {
+    "Installation and Setup": [
+      "build-installation",
+      "get-required-data",
+      "configure-settings",
+      "web-auth-setup",
+      "update-guide"
+    ],
+    "Modules Setup": [
+      "webserver-setup",
+      "notifications-setup",
+      "mail-setup",
+      "contracts-feed-setup",
+      "killmails-feed",
+      "eve-chat-relay"
+    ],
+    "Other": [
+      "message-templates-faq",
+      "administration-commands",
+      "troubleshooting"
+    ]
+  }
+}
