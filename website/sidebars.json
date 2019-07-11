@@ -1,5 +1,6 @@
 {
   "docs": {
+    "Home": ["home"],
     "Installation and Setup": [
       "build-installation",
       "get-required-data",

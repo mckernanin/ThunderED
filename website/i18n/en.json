@@ -3,7 +3,7 @@
   "localized-strings": {
     "next": "Next",
     "previous": "Previous",
-    "tagline": "A website for testing",
+    "tagline": "EVE Online Discord Bot",
     "docs": {
       "administration-commands": {
         "title": "Administration Commands"
@@ -55,12 +55,11 @@
       }
     },
     "links": {
-      "Docs Home": "Docs Home",
-      "Docs Overview": "Docs Overview",
-      "Help": "Help",
-      "Blog": "Blog"
+      "Home": "Home",
+      "Help": "Help"
     },
     "categories": {
+      "Home": "Home",
       "Installation and Setup": "Installation and Setup",
       "Modules Setup": "Modules Setup",
       "Other": "Other"
